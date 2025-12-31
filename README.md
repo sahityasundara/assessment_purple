@@ -5,7 +5,7 @@ A full-stack **User Management System** built as part of the **Backend Developer
 The application supports **JWT authentication, role-based access control (RBAC), admin user management, and secure API access**, with full cloud deployment.
 
 ---
-
+To login as admin, use admin@gmail.com , password: admin123
 ## 🚀 Project Overview
 
 This application allows users to:
