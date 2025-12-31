@@ -32,5 +32,12 @@ router.post("/login", async (req, res) => {
 
   res.json({ token });
 });
+const user = await User.create({
+  fullName,
+  email,
+  password: hashed,
+  role: email === "admin@example.com" ? "admin" : "user"
+});
+
 
 export default router;
