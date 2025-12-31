@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import api from "../services/api";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar";
 import ConfirmDialog from "../components/ConfirmDialog";
 
 export default function AdminDashboard() {

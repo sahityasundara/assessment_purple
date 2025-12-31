@@ -1,7 +1,7 @@
 import { useContext, useState } from "react";
 import { AuthContext } from "../context/AuthContext";
 import api from "../services/api";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar";
 
 export default function Profile() {
   const { user } = useContext(AuthContext);
