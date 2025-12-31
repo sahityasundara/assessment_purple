@@ -54,7 +54,7 @@ This project demonstrates:
 ## 🌐 Live Deployment Links
 
 - **Frontend (Netlify)**  
-  https://YOUR-NETLIFY-URL.netlify.app
+  https://zingy-mousse-bfab8c.netlify.app/signup
 
 - **Backend (Render)**  
   https://assessment-purple.onrender.com
